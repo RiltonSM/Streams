@@ -1,4 +1,4 @@
-# Videos
+# Streams
 > Uma aplicação web desenvolvida com ReactJS e Redux que realiza streams de vídeo a partir do OBS Studio.
 
 Esta aplicação foi desenvolvida com ReactJS e foi utilizado o SemanticUI para estilização dos componentes. Esta aplicação permite a realização de streams de vídeo a partir do software OBS Studio. Usa o Google OAuth API como sistema de autenticação.
@@ -29,7 +29,7 @@ Rilton Moreira – rilton_moreira@hotmail.com
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/RiltonSM/Mobile-Mines/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/RiltonSM/Streams/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
